@@ -1,6 +1,6 @@
-# Academic Email Assistant
+# ProfDesk
 
-A minimal, professional SaaS application for university professors to manage academic email overload through rule-based draft suggestions.
+A modern, intelligent SaaS application for university professors to manage academic email overload through rule-based draft suggestions.
 
 ## Features
 
@@ -17,7 +17,7 @@ A minimal, professional SaaS application for university professors to manage aca
 - **Payments**: Stripe
 - **Backend**: n8n workflows
 - **Validation**: Zod
-- **Design**: Custom CSS (academic, minimal aesthetic)
+- **Design**: Custom CSS (Modern SaaS Aesthetic)
 
 ## Getting Started
 
@@ -118,7 +118,7 @@ Set the webhook URLs in your `.env.local` file.
 │   ├── pricing/           # Pricing page
 │   ├── privacy/           # Privacy policy
 │   ├── terms/             # Terms of service
-│   ├── globals.css        # Academic design system
+│   ├── globals.css        # Modern design system
 │   └── layout.tsx         # Root layout
 ├── components/            # React components
 │   ├── Header.tsx
@@ -145,12 +145,11 @@ Set the webhook URLs in your `.env.local` file.
 
 ## Design Philosophy
 
-This application follows strict academic design principles:
+This application follows a modern SaaS design system:
 
-- **Calm**: No animations or flashy visuals
-- **Professional**: Serif fonts, minimal color palette
-- **Trustworthy**: Clear language, no marketing hype
-- **Human-made**: Feels like a university portal, not a startup
+- **Clean**: Soft shadows, rounded corners, clean sans-serif typography.
+- **Modern**: Glassmorphism effects and gradient accents.
+- **Professional**: Cool grey palette with charcoal text for high contrast.
 
 ## License
 
@@ -159,6 +158,6 @@ Proprietary - All rights reserved
 ## Support
 
 For questions or issues:
-- Email: support@academicemailassistant.com
-- Privacy: privacy@academicemailassistant.com
-- Terms: terms@academicemailassistant.com
+- Email: support@profdesk.app
+- Privacy: privacy@profdesk.app
+- Terms: terms@profdesk.app
